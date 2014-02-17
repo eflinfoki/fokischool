@@ -43,9 +43,11 @@
 
 Сайты и блоги учителей:
 
-- директор
+- [директор](http://ildarharisov.wordpress.com/)
 - [Альфадия Данифовна](http://about.me/alfadia/)
 - [Игорь Геннадьевич](https://www.vizify.com/igor-naumov)
+- [Елена Васильевна](http://nsportal.ru/shadrina-elena-vasilevna)
+- [Елена Анатольевна](http://nsportal.ru/elena04403)
 
 ## Выпускникам
 
