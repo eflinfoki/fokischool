@@ -12,9 +12,7 @@
 
 календарь 1-4 классов
 
-календарь 5-11 классов
-
-<iframe src="http://www.google.com/calendar/embed?src=fokischool.org_f0di54ei0gdtqff1n6s1h5003s%40group.calendar.google.com&ctz=Asia/Yekaterinburg" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+[календарь 5-11 классов]()
 
 расписание 1-4 классов
 
