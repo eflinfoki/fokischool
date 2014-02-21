@@ -31,9 +31,9 @@
 
 [школьное облако](https://docs.google.com/a/fokischool.org)
 
-база знаний школы
+[база знаний школы](http://fokischool.org/mediawiki/)
 
-онлайн курсы школы
+[онлайн курсы школы](http://fokischool.org/moodle/)
 
 ## Учителям
 
