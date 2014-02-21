@@ -46,6 +46,7 @@
 - [Игорь Геннадьевич](https://www.vizify.com/igor-naumov)
 - [Елена Васильевна](http://nsportal.ru/shadrina-elena-vasilevna)
 - [Елена Анатольевна](http://nsportal.ru/elena04403)
+- [Надежда Ильинична](http://nsportal.ru/makshakova-nadezhda-ilinichna)
 
 ## Выпускникам
 
