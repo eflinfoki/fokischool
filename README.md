@@ -54,8 +54,8 @@
 
 ##Физкультура и спорт
 
-- План мероприятий
-- Расписание секций
+- [План мероприятий](http://www.scribd.com/doc/209582699/Sports-Competitions-Spring-2014)
+- [Расписание секций](http://www.scribd.com/doc/209582177/Sports-Clubs-Schedule)
 
 ## Интернет
 
