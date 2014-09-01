@@ -10,8 +10,9 @@
 
 ## ВКурсе
 
-<div class="storify"><iframe src="//storify.com/fokischool/story/embed?header=false&border=false" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/fokischool/story.js?header=false&border=false"></script><noscript>[<a href="//storify.com/fokischool/story" target="_blank">View the story "Первое сентября" on Storify</a>]</noscript></div>
+[Первое сентября 2014 on Storify](https://storify.com/fokischool/story)
 
+[Первое сентября 2011 on Storify](https://storify.com/fokischool/new-story3)
 
 [календари](http://alfadia-eflinfoki.blogspot.ru/p/blog-page_19.html)
 
