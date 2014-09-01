@@ -9,6 +9,7 @@
 :incoming_envelope: 18, ул. Ленина, Фоки, Чайковский, Пермский край, 617750
 
 ## ВКурсе
+<div class="storify"><iframe src="//storify.com/fokischool/story/embed?header=false&border=false" width="100%" height=750 frameborder=no allowtransparency=true></iframe><script src="//storify.com/fokischool/story.js?header=false&border=false"></script><noscript>[<a href="//storify.com/fokischool/story" target="_blank">View the story "Первое сентября" on Storify</a>]</noscript></div>
 
 [календари](http://alfadia-eflinfoki.blogspot.ru/p/blog-page_19.html)
 
