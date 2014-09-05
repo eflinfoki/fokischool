@@ -18,7 +18,7 @@
 
 расписание 1-4 классов
 
-[расписание 5-11 классов](https://docs.google.com/spreadsheet/pub?key=0Aq8ULk6Dnt79dGtQSm45Z3R0dTJrcTRSMnhoS3I0eWc&single=true&gid=0&range=A1%3AT40&output=html)
+[расписание 5-11 классов](https://plus.google.com/photos/104651658277996471180/albums/5647334763483810929)
 
 Мы в социальных сетях, смотрите [главную страницу](http://fokischool.org).
 
