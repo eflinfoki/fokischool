@@ -16,8 +16,6 @@
 
 [календари](http://alfadia-eflinfoki.blogspot.ru/p/blog-page_19.html)
 
-расписание 1-4 классов
-
 [расписание 5-11 классов](https://docs.google.com/spreadsheets/d/1MYNjNV3MfplYcg-57zZNl93FmjYVqsVLZC3tevwFBng/pubhtml)
 
 Мы в социальных сетях, смотрите [главную страницу](http://fokischool.org).
@@ -26,6 +24,11 @@
 
 - [Школьная планета](http://planetfokischool.blogspot.ru/?view=magazine)
 - [Пятёрочка](http://fiveismagazine.blogspot.ru)
+
+Мы в Instagram
+
+<!-- SnapWidget -->
+<iframe src="http://snapwidget.com/in/?u=Zm9raV9zY2hvb2x8aW58MTI1fDN8M3x8bm98NXxub25lfG9uU3RhcnR8eWVzfG5v&ve=281114" title="Instagram Widget" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:390px; height:390px"></iframe>
 
 ## Официально
 
