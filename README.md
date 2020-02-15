@@ -2,12 +2,12 @@
 
 Это сайт учителя-пенсионера.
 
-[сайт школы](http://http://fokishkola.3dn.ru/)
+[сайт школы](http://fokishkola.3dn.ru/)
 
 ## Учащимся
 
-[база знаний школы](http://fokischool.org/mediawiki/)
+[база знаний школы](https://fokischool.org/mediawiki/)
 
-[онлайн курсы школы](http://fokischool.org/moodle/)
+[онлайн курсы школы](https://fokischool.org/moodle/)
 
 
