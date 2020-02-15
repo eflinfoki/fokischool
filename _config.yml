@@ -1,0 +1,8 @@
+title: Фокинская средняя школа
+description: информация
+google_analytics: UA-18656721-2
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
