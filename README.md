@@ -6,8 +6,8 @@
 
 ## Учащимся
 
-[база знаний школы](https://fokischool.org/mediawiki/)
+[база знаний](https://fokischool.org/mediawiki/)
 
-[онлайн курсы школы](https://fokischool.org/moodle/)
+[онлайн курсы](https://fokischool.org/moodle/)
 
 
